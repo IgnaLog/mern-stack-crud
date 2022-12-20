@@ -6,7 +6,7 @@ This project is Full Stack, so I am using technologies like [Nodejs](https://nod
 
 It is a website where you can create posts with their title, description and an image. You can also delete and modify them.
 
-![MERN Stack Post App (MongoDB)](https://i.ibb.co/ggY5rYC/home-mern.png)
+![MERN Stack Post App (MongoDB)](https://i.ibb.co/BtrY0dz/home-mern.png)
 
 ![Form MERN Stack Post App (MongoDB)](https://i.ibb.co/x5wnM1H/form-mern.png)
 
